@@ -1,6 +1,6 @@
 #Nike Shoe UI Card
 
-[DEMO]()
+[DEMO](https://abhijith-dev3.github.io/animated-shoe-card/)
 
 
 A modern and interactive nike product card UI built with HTML, CSS AND JS
